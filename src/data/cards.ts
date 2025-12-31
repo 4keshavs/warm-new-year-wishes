@@ -7,57 +7,57 @@ export interface CardData {
 export const cards: CardData[] = [
   {
     id: 1,
-    title: "The Reflection",
-    message: `This year was a rollercoaster, and somehow, you were one of the few constants. Thanks for putting up with my late-night calls, random rants, and questionable life choices. Here's to not changing that in 2025.`
+    title: "Card 1",
+    message: `This year was a rollercoaster of high highs and low lows, but you were easily the best part of the ride. I know I made mistakes, and I own them. I also know that underneath the reactions, you have the kindest heart, I accept and adore all of it, even the stubborn parts (so do me khaaskar yeh part). I'm lucky to know you, and I'm hoping the upcoming chapters are gentle on us both.`
   },
   {
     id: 2,
-    title: "The Memories",
-    message: `They say you shouldn't look back, but honestly, some of our memories are too good to leave behind. Like that time we couldn't stop laughing about the most stupid thing. Those moments? Yeah, I want more of them.`
+    title: "Card 2",
+    message: `They say you shouldn't look back, but how can I not when my best memories of 2025 have you in them? Even in the silence, I find myself rooting for you. I hope this year brings you as much joy as your smile used to bring me.`
   },
   {
     id: 3,
-    title: "The Funny One",
-    message: `My camera roll is full of memes I saved just to send to you. I hope 2025 gives us more reasons to laugh until our stomachs hurt. Also, I'm sorry in advance for the 3 AM texts you're definitely going to get.`
+    title: "Card 3",
+    message: `My camera roll is full of memes (account deleted☹) I wanted to send you but didn't. Just know that every time I saw something funny or cute this past month, you were the first person I thought of. Happy New Year to my favorite distraction.`
   },
   {
     id: 4,
-    title: "The Sincere Wish",
-    message: `Wishing you a year as beautiful as your smile (and yes, I mean that even when you're rolling your eyes at me). May 2025 bring you all the happiness you deserve—and maybe a little extra patience to deal with me.`
+    title: "Card 4",
+    message: `Wishing you a year that's as beautiful as you look when you're trying to act mad at me. And honestly I wish this year be full of success, prosperities and amazing year for you.`
   },
   {
     id: 5,
-    title: "The Respectful One",
-    message: `I know we're doing the "space" thing, and I respect that. But space doesn't mean I care any less. 2025 or 3025, I'll still be rooting for you, even from the sidelines.`
+    title: "Card 5",
+    message: `I know we're doing the 'space' thing, and I respect it. But tonight, I'm sending a wish out into the universe for you. May your coffee be strong, your eyeliner be even, and your year be full of magic. You deserve it all.`
   },
   {
     id: 6,
-    title: "The Chemistry",
-    message: `Chemistry like ours is rare—like, rarer than actually understanding what our professors say. I don't know what the future holds, but I hope we'll always have that spark, whether it's for jokes or something more.`
+    title: "Card 6",
+    message: `Chemistry like ours is rare; it's chaotic, sure, but it's electric. I miss my cutu-putu, but mostly I miss my closest friend. Here's to 365 new days... and maybe, just maybe, one of them leads back to a hello.`
   },
   {
     id: 7,
-    title: "The Gratitude",
-    message: `Thank you. Even for the arguments, the silences, and the weird moments. You've taught me more about myself than you'll ever know. Here's to a year of growth—for both of us.`
+    title: "Card 7",
+    message: `Thank you. Even for the arguments and the silence. It all taught me so much about patience, love, and what I really want (which is still you, tum na dost hi samajh lo; gussa mat karna). Here's to growth, healing, and fresh starts.`
   },
   {
     id: 8,
-    title: "The Deal",
-    message: `I was going to wish for world peace, but let's be real—I'm wishing for you to finally admit I'm the funnier one. Fine, fine. How about we call it a tie? Deal? Happy New Year!`
+    title: "Card 8",
+    message: `I was going to wish for world peace, but then I realized I'd rather wish for a chance to make you laugh again. Let's leave chaos of 2025 and take the chemistry into 2026. Deal?`
   },
   {
     id: 9,
-    title: "The Growth",
-    message: `I'm working on becoming the best version of myself—not just for me but because you deserve someone who matches your energy. 2025 is going to be our year, even if it's just as two people who truly get each other.`
+    title: "Card 9",
+    message: `I'm working on becoming the best version of myself, someone who listens better and loves harder. I hope 2026 gives me the chance to re-introduce myself to you. Until then, I'm cheering you on from the sidelines.`
   },
   {
     id: 10,
-    title: "The Simple Wish",
-    message: `So, here we are. Page 1 of 365. No matter what happens, I hope you know I'll always be just a call away (or maybe a text, because who even calls anymore?). Happy New Year, Shreya.`
+    title: "Card 10",
+    message: `So, here we are. Page 1 of 365. My wish for you is simple: Be happy. Be successful. Be you. And if you ever feel like looking back, just know I'm still here, holding a torch for you. Happy New Year, gorgeous.`
   },
   {
     id: 11,
-    title: "The Grand Finale ✨",
-    message: `For this last card, I'll keep it simple: You're one of the most important people in my life, and that's not changing anytime soon. Here's to us—whatever "us" means now or in the future. Cheers to 2025, and cheers to you. 🥂`
+    title: "The Grand Finale",
+    message: `For this last card, I have just one massive wish: May every dream you've ever kept tucked away in your heart find its way to reality this year. Go out there and conquer the world. And when you do, just know that I'll be watching with a smile, undeniably the proudest guy on earth to simply have known you. Shine bright, superstar, meri sabse badi celebrity.`
   }
 ];
