@@ -326,6 +326,19 @@ const Index = () => {
               >
                 Happy New Year, Shreya 🥂
               </motion.div>
+
+              <motion.div
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ delay: 1.6 }}
+                className="mt-10 px-6 py-4 rounded-xl bg-secondary/30 border border-warm-gold/20"
+              >
+                <p className="font-body text-lg md:text-xl text-warm-gold/90 leading-relaxed">
+                  ॐ सर्वेषां स्वस्तिर्भवतु। सर्वेषां शान्तिर्भवतु।<br />
+                  सर्वेषां पूर्णं भवतु। सर्वेषां मङ्गलं भवतु।<br />
+                  <span className="text-warm-coral">ॐ शान्तिः शान्तिः शान्तिः॥</span>
+                </p>
+              </motion.div>
               
               <motion.div
                 initial={{ opacity: 0 }}
